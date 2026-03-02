@@ -1,5 +1,6 @@
 hello
 Let's learn pushing code into github using git.
+install git in your local computer
 codes:
 git init
 git add .
