@@ -1,4 +1,5 @@
 instal git in your local computer
+run the below codes
 codes:
 git init
 git add .
