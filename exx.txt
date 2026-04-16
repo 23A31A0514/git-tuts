@@ -1,1 +1,1 @@
-this issS a git tut
+this is a git tut
