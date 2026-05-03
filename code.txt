@@ -1,5 +1,3 @@
-instal git in your local computer
-run the below codes
 git init
 git add .
 git commit -m "Initial commit"
